@@ -36,4 +36,5 @@ TurkishWordExtractor is a Python program designed to scrape and extract Turkish 
 
 1. Extracted file links:
    Clean words (without swears) : https://github.com/affanatmaca/turkish-clean-words
+   <br>
    Turkish words : https://github.com/affanatmaca/turkish-words
