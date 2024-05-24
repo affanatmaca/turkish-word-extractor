@@ -33,8 +33,5 @@ TurkishWordExtractor is a Python program designed to scrape and extract Turkish 
    pip install requests beautifulsoup4
 
 ## If you want extracted files
-
-1. Extracted file links:
    Clean words (without swears) : https://github.com/affanatmaca/turkish-clean-words
-   
    Turkish words : https://github.com/affanatmaca/turkish-words
