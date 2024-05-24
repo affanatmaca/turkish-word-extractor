@@ -22,7 +22,7 @@ TurkishWordExtractor is a Python program designed to scrape and extract Turkish 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/turkish-word-extractor.git
+   git clone https://github.com/affanatmaca/turkish-word-extractor.git
    
 2. Navigate to the project directory:
    ```bash
